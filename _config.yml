@@ -1,7 +1,7 @@
 name: em16
 favicon: null
-layout_spectrum: 0.38322
-typography_spectrum: 0.5656174118630588
+layout_spectrum: 0.88811
+typography_spectrum: 0.54295
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#dcd9d4'
     - '#883d42'
     - '#9c5459'
-  brandStrength: 0.48907687282189727
-  lightness: 0.01982802082784474
+  brandStrength: 1
+  lightness: 1
   saturation: 0.3285607257857919
-  rhythmicContrast: 0.6407295914832503
+  rhythmicContrast: 0
 purpose: []
