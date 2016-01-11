@@ -1,6 +1,6 @@
 name: em16
 favicon: null
-layout_spectrum: 0.16683740681037307
+layout_spectrum: 0.38322
 typography_spectrum: 0.5656174118630588
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#e5a5a6'
+    - '#d7888e'
+    - '#dcd9d4'
+    - '#883d42'
+    - '#9c5459'
   brandStrength: 0.48907687282189727
   lightness: 0.01982802082784474
   saturation: 0.3285607257857919
