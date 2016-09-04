@@ -1,19 +1,4 @@
-name: em16
-favicon: null
-layout_spectrum: 0.3734
 typography_spectrum: 0.54295
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5a5a6'
@@ -25,4 +10,20 @@ color:
   lightness: 1
   saturation: 0.3285607257857919
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3734
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: em16
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: GRAPHIC DESIGN & ILLUSTRATION
 purpose: []
